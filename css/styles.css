@@ -1,0 +1,26 @@
+body {
+  font-family: 'Nanum Myeongjo', serif;
+  background-image: linear-gradient(rgba(217, 224, 224, 0.5), rgba(242, 255, 254, 0.24)),
+  url("../img/watercolor-paper7189-2870.jpg");
+  font-size: 12pt;
+}
+.subheading h3 {
+  font-family: 'Nanum Myeongjo', serif;
+}
+h1, h2, h3 {
+  font-family: 'Do Hyeon', sans-serif;
+}
+.small {
+  font-family: 'Vollkorn', serif;
+}
+.spell-check {
+  font-family: 'Special Elite', monotype;
+}
+#smile-pic {
+  width: 45%;
+}
+.portrait {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
