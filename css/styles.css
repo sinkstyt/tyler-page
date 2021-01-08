@@ -4,11 +4,27 @@ body {
   url("../img/watercolor-paper7189-2870.jpg");
   font-size: 12pt;
 }
-.subheading h3 {
-  font-family: 'Nanum Myeongjo', serif;
+h1 {
+  font-size: 72pt;
+  line-height: 3.2rem;
+}
+.jumbotron {
+  text-align: right;
+}
+.jumbotron p {
+  margin-top: 6%;
+}
+h2 {
+  text-align: right;
 }
 h1, h2, h3 {
   font-family: 'Do Hyeon', sans-serif;
+}
+.bg-success {
+  border-radius: 30% 0 0 30%;
+}
+.bg-danger {
+  border-radius: 0 30% 30% 0;
 }
 .small {
   font-family: 'Vollkorn', serif;
@@ -17,10 +33,13 @@ h1, h2, h3 {
   font-family: 'Special Elite', monotype;
 }
 #smile-pic {
-  width: 45%;
+  height: 200px;
+  border-radius: 25% 25% 50% 15%;
 }
 .portrait {
-  margin: 0;
+  margin-right: 4%;
   padding: 0;
   border: 0;
+  position: relative;
+  float: left;
 }
