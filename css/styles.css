@@ -43,3 +43,13 @@ h1, h2, h3 {
   position: relative;
   float: left;
 }
+.card-text h4 {
+  text-align: center;
+}
+.comment {
+  text-align: right;
+  font-style: italic;
+}
+.repo h2, h3 {
+  text-align: justify;
+}
